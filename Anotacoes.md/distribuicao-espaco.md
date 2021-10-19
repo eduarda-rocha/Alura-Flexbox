@@ -1,0 +1,13 @@
+# Propriedade `justify-content`
+
+* Podemos distribuir os elementos dentro do pai de diversas formas, podemos por exemplo:
+
+* Colocar todo espaço à esquerda, jogando o conteúdo para direita com `justify-content: flex-end;`.
+
+* Colocar todo espaço à direita, jogando o conteúdo para esquerda com `justify-content: flex-start;` (que é o padrão).
+
+* Colocar todo espaço à esquerda e à direita, jogando o conteúdo para o meio com `justify-content: center;`.
+
+* Colocar todo espaço entre os elementos como vimos antes usando `justify-content: space-between;`.
+
+* E uma possibilidade bem interessante também é colocar o espaço em volta dos elementos. Podemos usar o `justify-content: space-around;` para isso.
